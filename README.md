@@ -1,0 +1,2 @@
+# Magli
+Repository untuk Magli
